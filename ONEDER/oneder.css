@@ -1,0 +1,956 @@
+.container {
+    width: 1500px;
+    margin: auto;
+}
+
+.header-bg-image {
+    background: linear-gradient(#15151565, #09090956), url(/ONEDER/img/office.webp)center/cover;
+    height: 100vh;
+}
+
+#header {
+    display: flex;
+    justify-content: space-around;
+    padding: 50px;
+}
+
+.navbar ul {
+    display: flex;
+    justify-content: space-around;
+    width: 700px;
+}
+
+.oneder h1 {
+    color: #fff;
+    font: 600 30px arial;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+
+.navbar a {
+    color: #fff;
+    font: 500 17px arial;
+
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    padding: 120px 120px 50px 120px;
+}
+
+.center h2 {
+    color: #fff;
+    font: 600 50px arial;
+    width: 50%;
+}
+
+.center-btn button {
+    color: #fff;
+    font: 500 17px arial;
+    background-color: #007bff;
+    border: 0;
+    border-radius: 50px;
+    padding: 12px 30px;
+    display: flex;
+    margin-left: 650px;
+    transition: .4s;
+    cursor: pointer;
+}
+
+.center-btn button:hover {
+    background-color: black;
+}
+
+.container1 {
+    width: 1500px;
+    margin: auto;
+}
+
+.head h1 {
+    padding: 100px;
+    text-align: center;
+    font: 600 40px arial;
+    color: #007bff;
+}
+
+.card1 img {
+    width: 580px;
+    margin-left: 200px;
+}
+
+#card {
+    display: flex;
+    justify-content: space-around;
+}
+
+.card2 {
+    padding: 0 150px 0 0;
+}
+
+.card2 h1 {
+    font: 500 30px arial;
+    color: #000;
+}
+
+.card2 h2 {
+    font: 500 16px arial;
+    color: #7b838a;
+    padding: 30px 0;
+    width: 400px;
+}
+
+.fa1 {
+    display: flex;
+}
+
+.fa1 h1 {
+    font: 500 16px arial;
+    color: gray;
+    margin-left: 30px;
+    height: 50px;
+}
+
+.fa1 h2 {
+    font: 500 16px arial;
+    color: gray;
+}
+
+.fa1 h3 {
+    font: 500 16px arial;
+    color: gray;
+    margin-left: 30px;
+    height: 50px;
+}
+
+.fa1 h4 {
+    font: 500 16px arial;
+    color: gray;
+    margin-left: 30px;
+}
+
+.cardd3 i {
+    color: #71bc42;
+}
+
+.card4 button {
+    color: #fff;
+    font: 500 17px arial;
+    padding: 12px 30px;
+    border: 0;
+    background: #007bff;
+    border-radius: 50px;
+    margin: 50px;
+    transition: .4s;
+    cursor: pointer;
+}
+
+.card2 button:hover {
+    background: #000;
+}
+
+.container2 {
+    width: 1200px;
+    margin: auto;
+}
+
+.box {
+    text-align: center;
+    padding: 100px 0 50px 0;
+}
+
+.box h1 {
+    font: 600 30px arial;
+    color: #007bff;
+}
+
+.box p {
+    font: 500 20px arial;
+    color: gray;
+    letter-spacing: 1px;
+    line-height: 40px;
+}
+
+#box-1 {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+
+}
+
+.box1 img {
+    width: 250px;
+}
+
+.box1 h2 {
+    font: 500 20px arial;
+    color: #000;
+    padding: 20px 0 10px 20px;
+}
+
+.box1 p {
+    font: 500 12px arial;
+    color: #cccccc;
+    text-transform: uppercase;
+    padding: 0 0 50px 20px;
+}
+
+
+.container3 {
+    width: 1500px;
+    margin: auto;
+}
+
+.card3 h1 {
+    font: 600 40px arial;
+    color: #007bff;
+    text-align: center;
+    padding: 50px;
+}
+
+.card3 p {
+    font: italic 500 25px arial;
+    color: #7b838a;
+    line-height: 50px;
+    margin: 0 0 20px 400px;
+    width: 800px;
+}
+
+#card6 {
+    display: flex;
+    justify-content: center;
+}
+
+.card33 {
+    display: flex;
+    justify-content: space-between;
+    margin: 100px;
+}
+
+.card33 img {
+    width: 50px;
+    margin: auto;
+    border-radius: 50px;
+
+}
+
+.card33 h2 {
+    font: 500 15px arial;
+    color: #7b838a;
+    padding: 20px;
+
+}
+
+.container4 {
+    width: 1500px;
+    margin: auto;
+    background-color: #f8f9fa;
+    padding: 0 0 100px 0;
+}
+
+.basic {
+    background-color: #fff;
+    width: 350px;
+    height: 600px;
+}
+
+#basicc {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 0 150px 0 150px
+}
+
+.pricing h1 {
+    font: 600 40px arial;
+    color: #007bff;
+    text-align: center;
+    padding: 50px;
+}
+
+.basic1 h1 {
+    font: 500 28px arial;
+    color: #000;
+    text-align: center;
+    padding: 30px 0 0 0
+}
+
+.basic1 h2 {
+    font: 500 45px arial;
+    color: #007bff;
+    text-align: center;
+}
+
+.basic1 h3 {
+    font: 500 16px arial;
+    color: #cccccc;
+    padding: 30px 0 0 10px;
+}
+
+.year {
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+}
+
+.all-text {
+    display: flex;
+}
+
+.all-text p {
+    font: 500 15px arial;
+    color: gray;
+    margin: 30px 30px 0 30px;
+    line-height: 20px;
+}
+
+.all-text i {
+    color: #71bc42;
+    margin: 30px 0 0 30px;
+
+}
+
+.all-text del {
+    text-decoration: line-through;
+    color: #cccccc;
+}
+
+.all-text del i {
+    color: #cccccc;
+}
+
+.all-text button {
+    padding: 15px 30px;
+    border: 0;
+    border-radius: 50px;
+    font: 500 16px arial;
+    color: #fff;
+    background: gray;
+    margin: 50px 110px;
+    cursor: pointer;
+    transition: .4s;
+}
+
+.all-text button:hover {
+    background: rgb(109, 106, 106);
+    color: #fff;
+}
+
+.btn button {
+    padding: 15px 30px;
+    border: 0;
+    border-radius: 50px;
+    font: 500 16px arial;
+    color: #fff;
+    background: #007bff;
+    margin: 50px 110px;
+    cursor: pointer;
+    transition: .4s;
+}
+
+.btn button:hover {
+    background: #000;
+    color: #fff;
+}
+
+.container5 {
+    width: 1500px;
+    margin: auto
+}
+
+#post1 {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 180px 0 220px;
+}
+
+.our-blog h1 {
+    padding: 100px 0 70px 0;
+    text-align: center;
+    text-transform: uppercase;
+    font: 600 30px arial;
+    color: #007bff;
+}
+
+.text h2 {
+    font: 500 20px arial;
+    color: #000;
+    line-height: 25px;
+
+}
+
+.text h3 {
+    font: 500 13px arial;
+    color: #cccccc;
+    letter-spacing: 1px;
+    padding: 10px 0 30px 0;
+}
+
+.text a {
+    font: 500 13px arial;
+    color: #007bff;
+    letter-spacing: 1px;
+
+}
+
+.text h4 {
+    font: 500 16px arial;
+    color: grey;
+    letter-spacing: 1px;
+    line-height: 30px;
+}
+
+.text h4 a {
+    font: 500 16px arial;
+    color: #007bff;
+    letter-spacing: 1px;
+}
+
+.container6 {
+    width: 1500px;
+    background-color: #333333;
+    margin: auto;
+
+}
+
+#footer2 {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 0 0 100px 0;
+    margin: 100px;
+}
+
+.footer {
+    padding: 100px 0 0 0;
+}
+
+.footer h1 {
+    font: 500 15px arial;
+    color: #fff;
+    letter-spacing: 1px;
+    padding: 0 0 30px 0;
+}
+
+.footer a {
+    font: 500 15px arial;
+    color: #999999;
+    letter-spacing: 1px;
+    line-height: 35px;
+}
+
+.footer a:hover {
+    color: #fff;
+}
+
+.footer i {
+    color: #999999;
+    letter-spacing: 30px;
+    cursor: pointer;
+}
+
+.footer i:hover {
+    color: #fff;
+}
+
+.footer p {
+    font: 500 15px arial;
+    color: #737373;
+    letter-spacing: 1px;
+    line-height: 30px;
+}
+
+.end {
+    font: 500 15px arial;
+    color: #737373;
+    letter-spacing: 1px;
+    line-height: 30px;
+    text-align: center;
+    padding: 50px 0 100px 0;
+
+}
+
+.footer input {
+    background: none;
+    border: 2px solid #999999;
+    padding: 15px 0;
+    border-radius: 50px 0 0 50px;
+    text-align: center;
+}
+
+.footer input::placeholder {
+    font: 500 15px arial;
+}
+
+.footer button {
+    padding: 15px 30px;
+    background-color: #fff;
+    border-radius: 0 50px 50px 0;
+    cursor: pointer;
+    font: 500 15px arial;
+    border: 0;
+}
+
+.end a {
+    font: 500 15px arial;
+    color: #999999;
+    letter-spacing: 1px;
+    line-height: 30px;
+    text-align: center;
+}
+
+.end a:hover {
+    color: #fff;
+}
+
+.end i {
+    color: red;
+}
+
+@media (max-width:768px) {
+    .container {
+        width: 90%;
+    }
+
+    #header {
+        flex-direction: column;
+    }
+
+    .navbar ul {
+        flex-direction: column;
+    }
+
+    .center h2 {
+        font-size: 30px !important;
+        margin-top: -30px !important;
+    }
+}
+
+@media (min-width:200px) and (max-width:768px) {
+    .oneder h1 {
+        margin: -10px 0 10px 0;
+        font-size: 20px;
+    }
+
+    .navbar a {
+        font-size: 10px;
+    }
+
+    .center h2 {
+        font-size: 20px;
+        margin: -50px 50px 0 0;
+    }
+
+    .center-btn button {
+        margin-left: 100px;
+        padding: 6px 20px;
+        font-size: 10px;
+    }
+}
+
+@media (min-width:300px) and (max-width:768px) {
+    .center-btn button {
+        margin-left: 100px;
+    }
+}
+
+@media (min-width:350px) and (max-width:768px) {
+    .center-btn button {
+        margin-left: 110px;
+    }
+}
+
+@media (min-width:400px) and (max-width:768px) {
+    .center-btn button {
+        margin-left: 120px;
+    }
+}
+
+@media (min-width:400px) and (max-width:768px) {
+    .center-btn button {
+        margin-left: 140px;
+    }
+}
+
+@media (min-width:520px) and (max-width:768px) {
+    .center-btn button {
+        margin-left: 160px;
+    }
+}
+
+@media (min-width:610px) and (max-width:768px) {
+    .center-btn button {
+        margin-left: 180px;
+    }
+}
+
+@media (min-width:660px) and (max-width:768px) {
+    .center-btn button {
+        margin-left: 200px;
+    }
+}
+
+@media (min-width:730px) and (max-width:768px) {
+    .center-btn button {
+        margin-left: 230px;
+    }
+}
+
+@media (max-width:1300px) and (min-width:768px) {
+    .container {
+        width: 110%;
+    }
+
+    .center h2 {
+        text-align: center;
+    }
+
+    .center-btn button {
+        margin-left: 600px;
+    }
+}
+
+@media (max-width:1174px) and (min-width:768px) {
+    .container {
+        width: 90%;
+    }
+
+    .center-btn button {
+        margin-left: 450px;
+    }
+}
+
+@media (max-width:1110px) and (min-width:768px) {
+    .container {
+        width: 90%;
+    }
+
+    .center-btn button {
+        margin-left: 400px;
+    }
+}
+
+@media (max-width:1000px) and (min-width:768px) {
+    .container {
+        width: 90%;
+    }
+
+    #header {
+        flex-direction: column;
+    }
+
+    .navbar ul {
+        flex-direction: column;
+    }
+
+    .center-btn button {
+        margin-left: 350px;
+    }
+
+    .center h2 {
+        margin: -130px 0 0 0;
+    }
+
+    .oneder h1 {
+        padding-bottom: 20px;
+    }
+
+}
+
+@media (max-width:892px) and (min-width:768px) {
+    .container {
+        width: 90%;
+    }
+
+    #header {
+        flex-direction: column;
+    }
+
+    .navbar ul {
+        flex-direction: column;
+    }
+
+    .center-btn button {
+        margin-left: 300px;
+    }
+
+    .center h2 {
+        margin: -130px 0 0 0;
+        width: 90%;
+    }
+
+    .oneder h1 {
+        padding-bottom: 20px;
+    }
+
+}
+
+@media (min-width:300px) and (max-width:768px) {
+    .container1 {
+        width: 90%;
+    }
+
+    .head h1 {
+        margin: -50px;
+    }
+
+    #card {
+        flex-wrap: wrap;
+    }
+
+    .card1 img {
+        width: 90%;
+        margin: 10px 0 0 20px;
+    }
+
+    .card2 {
+        width: 90%;
+        margin: 30px 0 0 50px;
+    }
+
+    .card2 h1 {
+        width: 90%;
+    }
+
+    .card2 h2 {
+        width: 90%;
+    }
+
+    .fa1 h1 {
+        padding-bottom: 20px;
+    }
+
+    .fa1 h2 {
+        padding-bottom: 20px;
+    }
+
+    .fa1 h3 {
+        padding-bottom: 20px;
+    }
+
+    .card4 button {
+        padding: 8px 12px;
+        margin-left: 10px;
+        width: 90%;
+    }
+
+}
+
+@media (min-width:450px) and (max-width:768px) {
+    .card4 button {
+        padding: 8px 12px;
+        margin-left: 10px;
+        width: 70%;
+    }
+}
+
+@media (min-width:500px) and (max-width:768px) {
+    .card4 button {
+        padding: 8px 12px;
+        margin-left: 10px;
+        width: 60%;
+    }
+}
+
+@media (min-width:650px) and (max-width:768px) {
+    .card4 button {
+        padding: 8px 12px;
+        margin-left: 10px;
+        width: 50%;
+    }
+}
+
+@media (max-width:1350px) and (min-width:768px) {
+    .container1 {
+        width: 90%;
+    }
+
+    #card {
+        flex-wrap: wrap;
+    }
+
+    .card1 img {
+        width: 90%;
+        margin: 0 0 50px 50px;
+    }
+}
+
+@media (min-width:300px) and (max-width:768px) {
+    .container2 {
+        width: 90%;
+    }
+}
+
+@media (max-width:1400px) and (min-width:768px) {
+    .container2 {
+        width: 90%;
+    }
+}
+
+@media (min-width:300px) and (max-width:768px) {
+    .container3 {
+        width: 80%;
+    }
+
+    .card3 h1 {
+        width: 90%;
+        margin-left: -50px;
+    }
+
+    .card3 p {
+        width: 90%;
+        margin-left: 20px;
+    }
+}
+
+@media (max-width:1300px) and (min-width:768px) {
+    .container3 {
+        width: 90%;
+    }
+
+    .card3 p {
+        width: 90%;
+        margin-left: 100px;
+    }
+}
+
+@media (min-width:300px) and (max-width:768px) {
+    .container4 {
+        width: 90%;
+        padding: 50px 30px 100px 0;
+    }
+
+    #basicc {
+        flex-wrap: wrap;
+        margin: 0 0 0 10px;
+    }
+
+    .basic {
+        margin-top: 80px;
+    }
+}
+
+@media (min-width:400px) and (max-width:768px) {
+    .container4 {
+        width: 90%;
+        padding: 50px 30px 100px 0;
+    }
+}
+
+@media (max-width:1500px) and (min-width:768px) {
+    .container4 {
+        width: 90%;
+    }
+
+    #basicc {
+        width: 90%;
+        flex-wrap: wrap;
+        margin: 0 20px 0 60px;
+    }
+
+    .basic {
+        margin-top: 50px;
+    }
+}
+
+@media (min-width:300px) and (max-width:768px) {
+    .container5 {
+        width: 90%;
+    }
+
+    #post1 {
+        flex-wrap: wrap;
+        margin: 0 0 0 20px;
+    }
+
+    .text img {
+        width: 90%;
+    }
+
+    .post {
+        margin-bottom: 50px;
+    }
+}
+
+@media (max-width:1500px) and (min-width:768px) {
+    .container5 {
+        width: 90%;
+    }
+
+    #post1 {
+        flex-wrap: wrap;
+        margin: 0 0 0 180px;
+    }
+
+    .post {
+        margin-bottom: 50px;
+    }
+}
+
+@media (min-width:300px) and (max-width:768px) {
+    .container6 {
+        width: 90%;
+    }
+
+    #footer2 {
+        flex-direction: column;
+    }
+
+    .footer1 {
+        width: 90%;
+    }
+
+    .footer input {
+        padding: 10px 20px;
+        margin-left: -70px;
+        width: 90%;
+    }
+
+    .footer button {
+        padding: 10px 20px;
+        margin-right: -50px;
+    }
+
+    .footer-icon {
+        display: flex;
+
+    }
+
+    .end p {
+        width: 90%;
+    }
+}
+
+@media (min-width:450px) and (max-width:768px) {
+    .container6 {
+        width: 90%;
+    }
+
+    .end p {
+        width: 90%;
+        padding-left: 25px;
+    }
+
+    .footer input {
+        width: auto;
+    }
+}
+@media (max-width:1500px) and (min-width:768px){
+    .container6 {
+        width: 90%;
+    }
+    #footer2 {
+        flex-direction: column;
+    }
+
+    .footer1 {
+        width: 90%;
+    }
+    .footer-icon {
+        display: flex;
+
+    }
+
+    .end p {
+        width: 90%;
+        padding-left: 35px;
+    }
+}
